@@ -192,6 +192,8 @@ http://127.0.0.1:8000/
 # 📸 Screenshots
 
 * 🏠 Home Page
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8871a173-f7c5-42ec-8aee-b8de452d10b7" />
+
 * 🛍️ Product Listing
 * 📄 Product Details
 * ❤️ Wishlist
